@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Waste Not Want Not Community Kitchen
-show_downloads: false
 google_analytics: UA-122280367-1
+webmaster_name: Andrew Carroll
+webmaster_url: https://github.com/andrew-carroll
+attribute_webmaster: true
+attribute_theme: true
