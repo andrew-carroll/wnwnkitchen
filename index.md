@@ -2,6 +2,8 @@
 
 We are an entirely volunteer-run charity dedicated to helping community help those in need. Our mission is to use community resources like volunteer labor, donated foods, goods, and monies to provide a free and wholesome hot meal every week in a family style atmosphere which creates a sense of welcome, belonging, and comfort for all. We aim to create a channel that facilitates the process of discerning the needs of individuals and families, and using the support of the community to meet those needs.
 
+Our weekly dinners are free to everyone, and regularly occur Wednesday evenings between 4:30pm and 6:30pm.
+
 ## Donate
 
 Waste Not Want Not is made possible by collectively many thousands of hours of hard work from its volunteers, and also by the generosity of donors like you. We always welcome donations in-person at any of our weekly free dinners, and we also accept Paypal - just click on the button below. Alternatively, if you'd like to send a tax-deductible donation by mail, you can send us a check made payable to **WNWN Community Kitchen**, and mailed to **P.O. Box 606, Granby, CT 06035-0606**.
