@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## About us
 
-You can use the [editor on GitHub](https://github.com/andrew-carroll/wnwnkitchen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are an entirely volunteer-run charity dedicated to helping community help those in need. Our mission is to use community resources like volunteer labor, donated foods, goods, and monies to provide a free and wholesome hot meal every week in a family style atmosphere which creates a sense of welcome, belonging, and comfort for all. We aim to create a channel that facilitates the process of discerning the needs of individuals and families, and using the support of the community to meet those needs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Donate
 
-### Markdown
+Waste Not Want Not is made possible by collectively many thousands of hours of hard work from its volunteers, and also by the generosity of donors like you. We always welcome donations in-person at any of our weekly free dinners, and we also accept Paypal - just click on the button below. Alternatively, if you'd like to send a tax-deductible donation by mail, you can send us a check made payable to **WNWN Community Kitchen**, and mailed to **P.O. Box 606, Granby, CT 06035-0606**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<sub>Waste Not Want Not believes that communities should share in the support of all people, without prejudice. In accordance with Federal Law and U.S. Department of Agriculture policy, this institution is prohibited from discriminating on the basis of race, color, religion, sex, national origin, age, or disability.</sub>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrew-carroll/wnwnkitchen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<sub>To file a complaint of discrimination, write to the USDA Director, Office of Civil Rights, Room 326-W, Whitten Building, 1400 Independence Avenue, SW, Washington, DC 20250-9410 or call (202) 720-5964 (voice and TDD). USDA is an equal opportunity provider and employer.</sub>
